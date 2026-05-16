@@ -1,5 +1,5 @@
 # Analyse de données descriptives sur le jeu vidéo FIFA
-Présentation du Projet & Problématique
+Présentation du Projet et Problématique
 
 Le jeu vidéo FIFA modélise de manière extrêmement précise les attributs physiques et techniques des joueurs réels. Ce projet s'appuie sur une base de données conséquente de 16 161 lignes (joueurs) et 33 colonnes (statistiques/informations).
 
