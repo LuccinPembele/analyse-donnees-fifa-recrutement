@@ -11,7 +11,6 @@ Le jeu vidéo FIFA modélise de manière extrêmement précise les attributs phy
 3. Adapter les stratégies de recrutement selon les ligues et les postes.
 4. Proposer des ajustements tactiques pour améliorer la performance globale de l'équipe.
 
----
 
 ## Méthodologie
 
@@ -21,7 +20,6 @@ Les étapes du projet :
 * Calcul de scores personnalisés et pondérés selon le poste pour évaluer la performance.
 * Identification des attributs physiques et techniques les plus impactants (vitesse, dribble, etc.).
 
----
 
 ## Décisions Stratégiques
 
