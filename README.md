@@ -1,7 +1,7 @@
 # Analyse de données descriptives sur le jeu vidéo FIFA
-📋 Présentation du Projet & Problématique
+Présentation du Projet & Problématique
 
-Le jeu vidéo FIFA modélise de manière extrêmement précise les attributs physiques et techniques des joueurs réels. Ce projet s'appuie sur une base de données conséquente de **16 161 lignes (joueurs)** et **33 colonnes (statistiques/informations)**.
+Le jeu vidéo FIFA modélise de manière extrêmement précise les attributs physiques et techniques des joueurs réels. Ce projet s'appuie sur une base de données conséquente de 16 161 lignes (joueurs) et 33 colonnes (statistiques/informations).
 
 **Problématique :** Quels sont les facteurs clés influençant la performance d'un joueur et comment ces données peuvent-elles être utilisées pour guider des décisions stratégiques (tactiques, recrutement) ?
 
@@ -16,14 +16,14 @@ Le jeu vidéo FIFA modélise de manière extrêmement précise les attributs phy
 ## Méthodologie
 
 Les étapes du projet :
-* Structuration du dataset pour rendre les variables exploitables.
+* Structuration de la base de données pour rendre les variables exploitables.
 * Visualisation des distributions, des profils par âge et par ligue.
 * Calcul de scores personnalisés et pondérés selon le poste pour évaluer la performance.
 * Identification des attributs physiques et techniques les plus impactants (vitesse, dribble, etc.).
 
 ---
 
-## Insights Clés & Décisions Stratégiques
+## Décisions Stratégiques
 
 ### Stratégie de Recrutement
 * Prioriser les joueurs dans la fenêtre **21-30 ans**, qui représente le pic de performance et de maturité physique/technique.
